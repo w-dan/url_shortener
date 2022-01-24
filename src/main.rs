@@ -53,7 +53,7 @@ fn rocket() -> _ {
  *               T E S T S               *
  *****************************************/
 
-
+/*
 #[cfg(test)]
 mod tests {
     use rocket::{http::Status, local::blocking::Client};
@@ -106,4 +106,4 @@ mod tests {
     }
 
 }
-
+*/
